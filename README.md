@@ -1,7 +1,8 @@
 
 "/root/autodl-tmp/Flow-MAE/yxWork/preprocessPcapEval.py" 数据预处理，直接运行，当前只针对单个pcap包的预处理，可自行更改函数
-
-
+pretrain.py运行：sh pretrain.sh
+finetune.py运行：sh finetune.sh
+具体模型参数，文件路径详见sh文件并修改
 
 Here's a breakdown of the structure and the key components of the repository:
 
