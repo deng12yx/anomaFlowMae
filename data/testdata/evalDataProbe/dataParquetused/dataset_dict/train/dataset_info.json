@@ -1,0 +1,55 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "train.parquet",
+  "dataset_size": 6291519,
+  "description": "",
+  "download_checksums": {
+    "/root/autodl-tmp/Flow-MAE/data/testdata/evalDataProbe/dataParquetused/train.parquet/part-00000-d13c229f-89de-4844-868e-2cc1439f262e-c000.snappy.parquet": {
+      "num_bytes": 1811283,
+      "checksum": null
+    }
+  },
+  "download_size": 1811283,
+  "features": {
+    "labels": {
+      "names": [
+        "1"
+      ],
+      "_type": "ClassLabel"
+    },
+    "x": {
+      "feature": {
+        "feature": {
+          "dtype": "float32",
+          "_type": "Value"
+        },
+        "length": 1024,
+        "_type": "Sequence"
+      },
+      "length": 1,
+      "_type": "Sequence"
+    },
+    "feature_len": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 8102802,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 6291519,
+      "num_examples": 6043,
+      "dataset_name": "parquet"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

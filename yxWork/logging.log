@@ -1,0 +1,9 @@
+[2024/05/11 20:58-INFO-session_dataset.py(180)] >> read /root/autodl-tmp/Flow-MAE/data/testdata/evalDataProbe/pretrain4096_0.75test.pkl, size 244x3
+[2024/05/11 20:58-INFO-session_dataset.py(74)] >> 文件大小 244 3
+[2024/05/11 20:58-INFO-session_dataset.py(91)] >> labels 1
+[2024/05/11 21:04-INFO-session_dataset.py(180)] >> read /root/autodl-tmp/Flow-MAE/data/PLUS_VPN_TOPtest/pretrain4096_0.75test.pkl, size 97371x3
+[2024/05/11 21:04-INFO-session_dataset.py(74)] >> 文件大小 97371 3
+[2024/05/11 21:04-INFO-session_dataset.py(91)] >> labels 18
+[2024/05/11 21:08-INFO-session_dataset.py(180)] >> read /root/autodl-tmp/Flow-MAE/data/PLUS_VPN_TOPtest/pretrain4096_0.75test.pkl, size 97371x3
+[2024/05/11 21:08-INFO-session_dataset.py(74)] >> 文件大小 97371 3
+[2024/05/11 21:08-INFO-session_dataset.py(91)] >> labels 18
